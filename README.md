@@ -1,2 +1,5 @@
 # qsharp-barrage
-Barrage plain-language clone of fitzyracing1/qsharp
+
+Barrage clone of [fitzyracing1/qsharp](https://github.com/fitzyracing1/qsharp).
+
+Read [listing.barrage](listing.barrage).
